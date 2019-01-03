@@ -33,10 +33,10 @@ $products = [
     'Moisturizing Sorbet' => 39
 ];
 // ADD to existing Array
-//$products['Spa'] = 150;
+$products['Spa'] = 150;
 
 // REMOVE from Array
-//unset($products['Remove Me']);
+unset($products['Remove Me']);
 
 
 // VAR_DUMP() : Dump Values

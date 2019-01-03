@@ -38,6 +38,7 @@
                 <strong>urgent: </strong><?= $tasks['important'] ? 'Yup' : 'Nah'; ?>
             </li>
         </ul>
+        <p><?php echo($response)?></p>
     </div>
 </body>
 </html>
